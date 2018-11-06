@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CEB304Message xmlns="http://www.chinaport.gov.cn/ceb" guid="1c77b61b-8664-472b-b8af-3cdbdadb4a18" version="1.0">
+    <OrderReturn>
+        <guid>3edfb0f9-bc8e-4b0f-8da4-0431d06643ed</guid>
+        <ebpCode>3316965628</ebpCode>
+        <ebcCode>3316965628</ebcCode>
+        <orderNo>1540349198331</orderNo>
+        <returnStatus>120</returnStatus>
+        <returnTime>20181018135712545</returnTime>
+        <returnInfo>逻辑校验通过</returnInfo>
+    </OrderReturn>
+</CEB304Message>
